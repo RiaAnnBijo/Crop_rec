@@ -61,4 +61,7 @@ Modify the file paths in these functions to match the locations where you placed
 * Seaborn: Statistical data visualization library based on Matplotlib.
 * Matplotlib: Comprehensive library for creating static visualizations.
 * Plotly Express: Library for creating interactive plots.
-* Pickle: Library for object serialization in Python. 
+* Pickle: Library for object serialization in Python.
+* sklearn: Library for machine learning
+
+#### Make sure you have a stable internet connection to view the image for crop prediction
